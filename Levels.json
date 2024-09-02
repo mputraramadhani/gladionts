@@ -1,0 +1,3529 @@
+{
+	"data": {
+		"level1": {
+			"waves": {
+				"wave1": {
+					"Enemy1": {
+						"damage": 2,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 3
+					}
+				},
+				"wave2": {
+					"Enemy1": {
+						"damage": 2,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 5
+					}
+				},
+				"wave3": {
+					"Enemy1": {
+						"damage": 2,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 6
+					}
+				}
+			},
+			"bonus": 20,
+			"total_wave": 3
+		},
+		"level2": {
+			"bonus": 100,
+			"waves": {
+				"wave1": {
+					"Enemy1": {
+						"damage": 5,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 5
+					}
+				},
+				"wave2": {
+					"Enemy1": {
+						"damage": 5,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 10
+					}
+				},
+				"wave3": {
+					"Enemy1": {
+						"damage": 5,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 15
+					}
+				},
+				"wave4": {
+					"Enemy1": {
+						"damage": 5,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 20
+					}
+				}
+			}
+		},
+		"level3": {
+			"bonus": 200,
+			"waves": {
+				"wave1": {
+					"Enemy1": {
+						"damage": 5,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 10
+					}
+				},
+				"wave2": {
+					"Enemy1": {
+						"damage": 5,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 10
+					}
+				},
+				"wave3": {
+					"Enemy1": {
+						"damage": 5,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 15
+					}
+				},
+				"wave4": {
+					"Enemy1": {
+						"damage": 5,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 20
+					}
+				},
+				"wave5": {
+					"Enemy1": {
+						"damage": 5,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 20
+					}
+				}
+			}
+		},
+		"level4": {
+			"bonus": 400,
+			"waves": {
+				"wave1": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 100,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 15
+					}
+				},
+				"wave2": {
+					"Enemy1": {
+						"damage": 5,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 15
+					}
+				},
+				"wave3": {
+					"Enemy1": {
+						"damage": 5,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 10
+					},
+					"Enemy2": {
+						"damage": 6,
+						"health": 100,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 10
+					}
+				},
+				"wave4": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 100,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 20
+					}
+				},
+				"wave5": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 100,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 20
+					}
+				}
+			}
+		},
+		"level5": {
+			"bonus": 500,
+			"waves": {
+				"wave1": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 100,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 5
+					}
+				},
+				"wave2": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 100,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 10
+					}
+				},
+				"wave3": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 100,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 15
+					}
+				},
+				"wave4": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 100,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 20
+					}
+				},
+				"wave5": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 100,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 25
+					}
+				},
+				"wave6": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 100,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 30
+					}
+				},
+				"wave7": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 100,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 35
+					}
+				}
+			}
+		},
+		"level6": {
+			"bonus": 1000,
+			"waves": {
+				"wave1": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 110,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 10
+					}
+				},
+				"wave2": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 110,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 20
+					}
+				},
+				"wave3": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 110,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 25
+					}
+				},
+				"wave4": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 110,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 30
+					}
+				},
+				"wave5": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 110,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 35
+					}
+				},
+				"wave6": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 110,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 40
+					}
+				},
+				"wave7": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 110,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 50
+					}
+				}
+			}
+		},
+		"level7": {
+			"bonus": 2000,
+			"waves": {
+				"wave1": {
+					"Enemy3": {
+						"damage": 8,
+						"health": 120,
+						"time_attack": "4-5",
+						"coin": 10,
+						"numbers": 10
+					},
+					"Enemy1": {
+						"damage": 5,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 10
+					}
+				},
+				"wave2": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 110,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 10
+					},
+					"Enemy3": {
+						"damage": 8,
+						"health": 120,
+						"time_attack": "4-5",
+						"coin": 10,
+						"numbers": 10
+					}
+				},
+				"wave3": {
+					"Enemy3": {
+						"damage": 8,
+						"health": 120,
+						"time_attack": "4-5",
+						"coin": 10,
+						"numbers": 20
+					}
+				},
+				"wave4": {
+					"Enemy3": {
+						"damage": 8,
+						"health": 120,
+						"time_attack": "4-5",
+						"coin": 10,
+						"numbers": 30
+					}
+				},
+				"wave5": {
+					"Enemy1": {
+						"damage": 5,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 10
+					},
+					"Enemy2": {
+						"damage": 6,
+						"health": 110,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 10
+					},
+					"Enemy3": {
+						"damage": 8,
+						"health": 120,
+						"time_attack": "4-5",
+						"coin": 10,
+						"numbers": 10
+					}
+				},
+				"wave6": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 110,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 15
+					},
+					"Enemy3": {
+						"damage": 8,
+						"health": 120,
+						"time_attack": "4-5",
+						"coin": 10,
+						"numbers": 15
+					}
+				},
+				"wave7": {
+					"Enemy3": {
+						"damage": 8,
+						"health": 120,
+						"time_attack": "4-5",
+						"coin": 10,
+						"numbers": 40
+					}
+				}
+			}
+		},
+		"level8": {
+			"bonus": 5000,
+			"waves": {
+				"wave1": {
+					"Enemy3": {
+						"damage": 8,
+						"health": 120,
+						"time_attack": "3-5",
+						"coin": 10,
+						"numbers": 15
+					},
+					"Enemy1": {
+						"damage": 5,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 15
+					}
+				},
+				"wave2": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 110,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 15
+					},
+					"Enemy3": {
+						"damage": 8,
+						"health": 120,
+						"time_attack": "3-5",
+						"coin": 10,
+						"numbers": 15
+					}
+				},
+				"wave3": {
+					"Enemy3": {
+						"damage": 8,
+						"health": 120,
+						"time_attack": "3-5",
+						"coin": 10,
+						"numbers": 20
+					}
+				},
+				"wave4": {
+					"Enemy3": {
+						"damage": 8,
+						"health": 120,
+						"time_attack": "3-5",
+						"coin": 10,
+						"numbers": 30
+					}
+				},
+				"wave5": {
+					"Enemy1": {
+						"damage": 5,
+						"health": 100,
+						"time_attack": "5-10",
+						"coin": 5,
+						"numbers": 10
+					},
+					"Enemy2": {
+						"damage": 6,
+						"health": 110,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 10
+					},
+					"Enemy3": {
+						"damage": 8,
+						"health": 120,
+						"time_attack": "3-5",
+						"coin": 10,
+						"numbers": 10
+					}
+				},
+				"wave6": {
+					"Enemy2": {
+						"damage": 6,
+						"health": 110,
+						"time_attack": "3-5",
+						"coin": 5,
+						"numbers": 15
+					},
+					"Enemy3": {
+						"damage": 8,
+						"health": 120,
+						"time_attack": "3-5",
+						"coin": 10,
+						"numbers": 15
+					}
+				},
+				"wave7": {
+					"Enemy3": {
+						"damage": 8,
+						"health": 120,
+						"time_attack": "3-5",
+						"coin": 10,
+						"numbers": 40
+					}
+				}
+			}
+		},
+		"level9": {
+			"bonus": 10000,
+			"waves": {
+				"wave1": {
+					"Enemy1": {
+						"damage": 10,
+						"health": 120,
+						"time_attack": "5-10",
+						"coin": 15,
+						"numbers": 20
+					}
+				},
+				"wave2": {
+					"Enemy2": {
+						"damage": 12,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 20,
+						"numbers": 20
+					}
+				},
+				"wave3": {
+					"Enemy3": {
+						"damage": 14,
+						"health": 140,
+						"time_attack": "3-5",
+						"coin": 25,
+						"numbers": 20
+					}
+				},
+				"wave4": {
+					"Enemy1": {
+						"damage": 10,
+						"health": 120,
+						"time_attack": "5-10",
+						"coin": 15,
+						"numbers": 10
+					},
+					"Enemy2": {
+						"damage": 12,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 20,
+						"numbers": 10
+					},
+					"Enemy3": {
+						"damage": 14,
+						"health": 140,
+						"time_attack": "3-5",
+						"coin": 25,
+						"numbers": 10
+					}
+				},
+				"wave5": {
+					"Enemy1": {
+						"damage": 10,
+						"health": 120,
+						"time_attack": "5-10",
+						"coin": 15,
+						"numbers": 20
+					},
+					"Enemy2": {
+						"damage": 12,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 20,
+						"numbers": 10
+					},
+					"Enemy3": {
+						"damage": 14,
+						"health": 140,
+						"time_attack": "3-5",
+						"coin": 25,
+						"numbers": 10
+					}
+				},
+				"wave6": {
+					"Enemy1": {
+						"damage": 10,
+						"health": 120,
+						"time_attack": "5-10",
+						"coin": 15,
+						"numbers": 10
+					},
+					"Enemy2": {
+						"damage": 12,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 20,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 14,
+						"health": 140,
+						"time_attack": "3-5",
+						"coin": 25,
+						"numbers": 10
+					}
+				},
+				"wave7": {
+					"Enemy1": {
+						"damage": 10,
+						"health": 120,
+						"time_attack": "5-10",
+						"coin": 15,
+						"numbers": 10
+					},
+					"Enemy2": {
+						"damage": 12,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 20,
+						"numbers": 10
+					},
+					"Enemy3": {
+						"damage": 14,
+						"health": 140,
+						"time_attack": "3-5",
+						"coin": 25,
+						"numbers": 20
+					}
+				}
+			}
+		},
+		"level10": {
+			"bonus": 15000,
+			"waves": {
+				"wave1": {
+					"Enemy1": {
+						"damage": 10,
+						"health": 120,
+						"time_attack": "5-10",
+						"coin": 15,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "5-10",
+						"coin": 50,
+						"numbers": 20
+					}
+				},
+				"wave2": {
+					"Enemy2": {
+						"damage": 12,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 20,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "5-10",
+						"coin": 50,
+						"numbers": 20
+					}
+				},
+				"wave3": {
+					"Enemy3": {
+						"damage": 14,
+						"health": 140,
+						"time_attack": "3-5",
+						"coin": 25,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "5-10",
+						"coin": 50,
+						"numbers": 20
+					}
+				},
+				"wave4": {
+					"Enemy1": {
+						"damage": 10,
+						"health": 120,
+						"time_attack": "5-10",
+						"coin": 15,
+						"numbers": 10
+					},
+					"Enemy2": {
+						"damage": 12,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 20,
+						"numbers": 10
+					},
+					"Enemy3": {
+						"damage": 14,
+						"health": 140,
+						"time_attack": "3-5",
+						"coin": 25,
+						"numbers": 10
+					},
+					"Enemy4": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "5-10",
+						"coin": 50,
+						"numbers": 10
+					}
+				},
+				"wave5": {
+					"Enemy1": {
+						"damage": 10,
+						"health": 120,
+						"time_attack": "5-10",
+						"coin": 15,
+						"numbers": 20
+					},
+					"Enemy2": {
+						"damage": 12,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 20,
+						"numbers": 10
+					},
+					"Enemy3": {
+						"damage": 14,
+						"health": 140,
+						"time_attack": "3-5",
+						"coin": 25,
+						"numbers": 10
+					},
+					"Enemy4": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "5-10",
+						"coin": 50,
+						"numbers": 10
+					}
+				}
+			}
+		},
+		"level11": {
+			"bonus": 20000,
+			"waves": {
+				"wave1": {
+					"Enemy4": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "5-10",
+						"coin": 50,
+						"numbers": 5
+					}
+				},
+				"wave2": {
+					"Enemy4": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "5-10",
+						"coin": 50,
+						"numbers": 10
+					}
+				},
+				"wave3": {
+					"Enemy4": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "5-10",
+						"coin": 50,
+						"numbers": 15
+					}
+				},
+				"wave4": {
+					"Enemy4": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "5-10",
+						"coin": 50,
+						"numbers": 20
+					}
+				},
+				"wave5": {
+					"Enemy4": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "5-10",
+						"coin": 50,
+						"numbers": 25
+					}
+				},
+				"wave6": {
+					"Enemy4": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "5-10",
+						"coin": 50,
+						"numbers": 30
+					}
+				},
+				"wave7": {
+					"Enemy4": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "5-10",
+						"coin": 50,
+						"numbers": 35
+					}
+				}
+			}
+		},
+		"level12": {
+			"bonus": 25000,
+			"waves": {
+				"wave1": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 2
+					},
+					"Enemy1": {
+						"damage": 10,
+						"health": 120,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 20
+					}
+				},
+				"wave2": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 5
+					},
+					"Enemy1": {
+						"damage": 10,
+						"health": 120,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 20
+					}
+				},
+				"wave3": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 10
+					},
+					"Enemy1": {
+						"damage": 10,
+						"health": 120,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 20
+					}
+				},
+				"wave4": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 15
+					},
+					"Enemy1": {
+						"damage": 10,
+						"health": 120,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 20
+					}
+				},
+				"wave5": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 2
+					},
+					"Enemy1": {
+						"damage": 10,
+						"health": 120,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 50
+					}
+				}
+			}
+		},
+		"level13": {
+			"bonus": 30000,
+			"waves": {
+				"wave1": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 2
+					},
+					"Enemy2": {
+						"damage": 10,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 20
+					}
+				},
+				"wave2": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 5
+					},
+					"Enemy2": {
+						"damage": 10,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 20
+					}
+				},
+				"wave3": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 10
+					},
+					"Enemy2": {
+						"damage": 10,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 20
+					}
+				},
+				"wave4": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 15
+					},
+					"Enemy2": {
+						"damage": 10,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 30
+					}
+				},
+				"wave5": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 2
+					},
+					"Enemy2": {
+						"damage": 10,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 50
+					}
+				}
+			}
+		},
+		"level14": {
+			"bonus": 35000,
+			"waves": {
+				"wave1": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 2
+					},
+					"Enemy3": {
+						"damage": 10,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 20
+					}
+				},
+				"wave2": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 5
+					},
+					"Enemy3": {
+						"damage": 10,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 20
+					}
+				},
+				"wave3": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 10
+					},
+					"Enemy3": {
+						"damage": 10,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 20
+					}
+				},
+				"wave4": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 15
+					},
+					"Enemy3": {
+						"damage": 10,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 50
+					}
+				},
+				"wave5": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 2
+					},
+					"Enemy3": {
+						"damage": 10,
+						"health": 130,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 50
+					}
+				}
+			}
+		},
+		"level15": {
+			"bonus": 40000,
+			"waves": {
+				"wave1": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 2
+					},
+					"Enemy4": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 5
+					}
+				},
+				"wave2": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 5
+					},
+					"Enemy4": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 10
+					}
+				},
+				"wave3": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 7
+					},
+					"Enemy4": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 15
+					}
+				},
+				"wave4": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 9
+					},
+					"Enemy4": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 20
+					}
+				},
+				"wave5": {
+					"Enemy5": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "5-10",
+						"coin": 70,
+						"numbers": 11
+					},
+					"Enemy3": {
+						"damage": 15,
+						"health": 150,
+						"time_attack": "3-5",
+						"coin": 50,
+						"numbers": 25
+					}
+				}
+			}
+		},
+		"level16": {
+			"bonus": 50000,
+			"waves": {
+				"wave1": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "5-10",
+						"coin": 100,
+						"numbers": 2
+					}
+				},
+				"wave2": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "5-10",
+						"coin": 100,
+						"numbers": 4
+					}
+				},
+				"wave3": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "5-10",
+						"coin": 100,
+						"numbers": 6
+					}
+				},
+				"wave4": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "5-10",
+						"coin": 100,
+						"numbers": 8
+					}
+				},
+				"wave5": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "5-10",
+						"coin": 100,
+						"numbers": 10
+					}
+				},
+				"wave6": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "5-10",
+						"coin": 100,
+						"numbers": 12
+					}
+				},
+				"wave7": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "5-10",
+						"coin": 100,
+						"numbers": 14
+					}
+				}
+			}
+		},
+		"level17": {
+			"bonus": 55000,
+			"waves": {
+				"wave1": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 5
+					}
+				},
+				"wave2": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 10
+					}
+				},
+				"wave3": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 15
+					}
+				},
+				"wave4": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					}
+				},
+				"wave5": {
+					"Enemy6": {
+						"damage": 25,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 25
+					} 
+				},
+				"wave6": {
+					"Enemy6": {
+						"damage": 25,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 30
+					}
+				},
+				"wave7": {
+					"Enemy6": {
+						"damage": 25,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 35
+					}
+				}
+			}
+		},
+		"level18": {
+			"bonus": 60000,
+			"waves": {
+				"wave1": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 5
+					},
+					"Enemy1": {
+						"damage": 15,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 80,
+						"numbers": 5
+					}
+				},
+				"wave2": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 10
+					},
+					"Enemy1": {
+						"damage": 15,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 80,
+						"numbers": 10
+					}
+				},
+				"wave3": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 15
+					},
+					"Enemy1": {
+						"damage": 15,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 80,
+						"numbers": 15
+					}
+				},
+				"wave4": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy1": {
+						"damage": 15,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 80,
+						"numbers": 20
+					}
+				},
+				"wave5": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 25
+					},
+					"Enemy1": {
+						"damage": 15,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 80,
+						"numbers": 25
+					}
+				},
+				"wave6": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 30
+					},
+					"Enemy1": {
+						"damage": 15,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 80,
+						"numbers": 30
+					}
+				},
+				"wave7": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 35
+					},
+					"Enemy1": {
+						"damage": 15,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 80,
+						"numbers": 35
+					}
+				}
+			}
+		},
+		"level19": {
+			"bonus": 65000,
+			"waves": {
+				"wave1": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "3-6",
+						"coin": 100,
+						"numbers": 5
+					},
+					"Enemy2": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 90,
+						"numbers": 5
+					}
+				},
+				"wave2": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 10
+					},
+					"Enemy2": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 90,
+						"numbers": 10
+					}
+				},
+				"wave3": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 15
+					},
+					"Enemy2": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 90,
+						"numbers": 15
+					}
+				},
+				"wave4": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 15
+					},
+					"Enemy2": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 90,
+						"numbers": 20
+					}
+				},
+				"wave5": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "5-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy2": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 90,
+						"numbers": 25
+					}
+				},
+				"wave6": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "5-7",
+						"coin": 100,
+						"numbers": 30
+					},
+					"Enemy2": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 90,
+						"numbers": 30
+					}
+				},
+				"wave7": {
+					"Enemy6": {
+						"damage": 30,
+						"health": 500,
+						"time_attack": "7-10",
+						"coin": 100,
+						"numbers": 35
+					},
+					"Enemy2": {
+						"damage": 20,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 90,
+						"numbers": 35
+					}
+				}
+			}
+		},
+		"level20": {
+			"bonus": 70000,
+			"waves": {
+				"wave1": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 2
+					}
+				},
+				"wave2": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 5
+					}
+				},
+				"wave3": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 10
+					}
+				},
+				"wave4": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 15
+					}
+				},
+				"wave5": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 20
+					}
+				},
+				"wave6": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 25
+					}
+				},
+				"wave7": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 30
+					}
+				}
+			}
+		},
+		"level21": {
+			"bonus": 75000,
+			"waves": {
+				"wave1": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "5-7",
+						"coin": 200,
+						"numbers": 2
+					},
+					"Enemy3": {
+						"damage": 20,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					}
+				},
+				"wave2": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "5-7",
+						"coin": 200,
+						"numbers": 5
+					},
+					"Enemy3": {
+						"damage": 20,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 15
+					}
+				},
+				"wave3": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 10
+					},
+					"Enemy3": {
+						"damage": 20,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					}
+				},
+				"wave4": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 15
+					},
+					"Enemy3": {
+						"damage": 20,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 25
+					}
+				},
+				"wave5": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 20,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 30
+					}
+				},
+				"wave6": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 25
+					},
+					"Enemy3": {
+						"damage": 20,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 35
+					}
+				},
+				"wave7": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 30
+					},
+					"Enemy3": {
+						"damage": 20,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 40
+					}
+				}
+			}
+		},
+		"level22": {
+			"bonus": 80000,
+			"waves": {
+				"wave1": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 2
+					},
+					"Enemy3": {
+						"damage": 20,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					},
+					"Enemy6": {
+						"damage": 40,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 2
+					}
+				},
+				"wave2": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 5
+					},
+					"Enemy3": {
+						"damage": 20,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 15
+					},
+					"Enemy6": {
+						"damage": 40,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 3
+					}
+				},
+				"wave3": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 5
+					},
+					"Enemy3": {
+						"damage": 20,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy6": {
+						"damage": 40,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 5
+					}
+				},
+				"wave4": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					},
+					"Enemy3": {
+						"damage": 20,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 25
+					},
+					"Enemy6": {
+						"damage": 40,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 5
+					}
+				},
+				"wave5": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					},
+					"Enemy3": {
+						"damage": 20,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 30
+					},
+					"Enemy6": {
+						"damage": 40,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 6
+					}
+				},
+				"wave6": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					},
+					"Enemy3": {
+						"damage": 20,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 35
+					},
+					"Enemy6": {
+						"damage": 40,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 7
+					}
+				},
+				"wave7": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					},
+					"Enemy3": {
+						"damage": 20,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 40
+					},
+					"Enemy6": {
+						"damage": 40,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 8
+					}
+				}
+			}
+		},
+		"level23": {
+			"bonus": 85000,
+			"waves": {
+				"wave1": {
+					"Enemy8": {
+						"damage": 60,
+						"health": 1200,
+						"time_attack": "7-10",
+						"coin": 500,
+						"numbers": 4
+					}
+				},
+				"wave2": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 5
+					},
+					"Enemy8": {
+						"damage": 60,
+						"health": 1200,
+						"time_attack": "7-10",
+						"coin": 500,
+						"numbers": 4
+					}
+				},
+				"wave3": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 6
+					},
+					"Enemy8": {
+						"damage": 60,
+						"health": 1200,
+						"time_attack": "7-10",
+						"coin": 500,
+						"numbers": 6
+					}
+				},
+				"wave4": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 7
+					},
+					"Enemy8": {
+						"damage": 60,
+						"health": 1200,
+						"time_attack": "7-10",
+						"coin": 500,
+						"numbers": 7
+					}
+				},
+				"wave5": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 8
+					},
+					"Enemy8": {
+						"damage": 60,
+						"health": 1200,
+						"time_attack": "7-10",
+						"coin": 500,
+						"numbers": 8
+					}
+				},
+				"wave6": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 9
+					},
+					"Enemy8": {
+						"damage": 60,
+						"health": 1200,
+						"time_attack": "7-10",
+						"coin": 500,
+						"numbers": 9
+					}
+				},
+				"wave7": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "7-10",
+						"coin": 200,
+						"numbers": 10
+					},
+					"Enemy8": {
+						"damage": 60,
+						"health": 1200,
+						"time_attack": "7-10",
+						"coin": 500,
+						"numbers": 10
+					}
+				}
+			}
+		},
+		"level24": {
+			"bonus": 90000,
+			"waves": {
+				"wave1": {
+					"Enemy9": {
+						"damage": 70,
+						"health": 3000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 4
+					}
+				},
+				"wave2": {
+					"Enemy9": {
+						"damage": 70,
+						"health": 3000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 5
+					},
+					"Enemy8": {
+						"damage": 60,
+						"health": 1200,
+						"time_attack": "7-10",
+						"coin": 500,
+						"numbers": 4
+					}
+				},
+				"wave3": {
+					"Enemy9": {
+						"damage": 70,
+						"health": 3000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 6
+					},
+					"Enemy8": {
+						"damage": 60,
+						"health": 1200,
+						"time_attack": "7-10",
+						"coin": 500,
+						"numbers": 6
+					}
+				},
+				"wave4": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 7
+					},
+					"Enemy9": {
+						"damage": 70,
+						"health": 3000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 7
+					}
+				},
+				"wave5": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 8
+					},
+					"Enemy9": {
+						"damage": 70,
+						"health": 3000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 8
+					}
+				},
+				"wave6": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 9
+					},
+					"Enemy9": {
+						"damage": 70,
+						"health": 3000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 9
+					}
+				},
+				"wave7": {
+					"Enemy7": {
+						"damage": 50,
+						"health": 800,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					},
+					"Enemy9": {
+						"damage": 70,
+						"health": 3000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 10
+					}
+				}
+			}
+		},
+		"level25": {
+			"bonus": 95000,
+			"waves": {
+				"wave1": {
+					"Enemy9": {
+						"damage": 20,
+						"health": 5000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy1": {
+						"damage": 30,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					}
+				},
+				"wave2": {
+					"Enemy9": {
+						"damage": 20,
+						"health": 5000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 5
+					},
+					"Enemy1": {
+						"damage": 30,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 30
+					}
+				},
+				"wave3": {
+					"Enemy9": {
+						"damage": 20,
+						"health": 5000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 6
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 40
+					}
+				},
+				"wave4": {
+					"Enemy9": {
+						"damage": 20,
+						"health": 5000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 7
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 50
+					}
+				},
+				"wave5": {
+					"Enemy9": {
+						"damage": 20,
+						"health": 5000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 8
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 70
+					}
+				},
+				"wave6": {
+					"Enemy9": {
+						"damage": 20,
+						"health": 5000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 9
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 100
+					}
+				},
+				"wave7": {
+					"Enemy9": {
+						"damage": 20,
+						"health": 5000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 10
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 120
+					}
+				}
+			}
+		},
+		"level26": {
+			"bonus": 100000,
+			"waves": {
+				"wave1": {
+					"Enemy9": {
+						"damage": 30,
+						"health": 6000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					}
+				},
+				"wave2": {
+					"Enemy9": {
+						"damage": 30,
+						"health": 6000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 5
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 30
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					}
+				},
+				"wave3": {
+					"Enemy9": {
+						"damage": 30,
+						"health": 6000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 6
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 40
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					}
+				},
+				"wave4": {
+					"Enemy9": {
+						"damage": 30,
+						"health": 6000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 7
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 50
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					}
+				},
+				"wave5": {
+					"Enemy9": {
+						"damage": 30,
+						"health": 6000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 8
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 70
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					}
+				},
+				"wave6": {
+					"Enemy9": {
+						"damage": 30,
+						"health": 6000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 9
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 100
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					}
+				},
+				"wave7": {
+					"Enemy9": {
+						"damage": 30,
+						"health": 6000,
+						"time_attack": "7-10",
+						"coin": 1000,
+						"numbers": 10
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 120
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					}
+				}
+			}
+		},
+		"level27": {
+			"bonus": 150000,
+			"waves": {
+				"wave1": {
+					"Enemy9": {
+						"damage": 30,
+						"health": 7000,
+						"time_attack": "3-7",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					}
+				},
+				"wave2": {
+					"Enemy9": {
+						"damage": 30,
+						"health": 7000,
+						"time_attack": "3-7",
+						"coin": 1000,
+						"numbers": 5
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 30
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					}
+				},
+				"wave3": {
+					"Enemy9": {
+						"damage": 30,
+						"health": 7000,
+						"time_attack": "3-7",
+						"coin": 1000,
+						"numbers": 6
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 40
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					}
+				},
+				"wave4": {
+					"Enemy9": {
+						"damage": 30,
+						"health": 7000,
+						"time_attack": "3-7",
+						"coin": 1000,
+						"numbers": 7
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 50
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					}
+				},
+				"wave5": {
+					"Enemy9": {
+						"damage": 30,
+						"health": 7000,
+						"time_attack": "3-7",
+						"coin": 1000,
+						"numbers": 8
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 70
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					}
+				},
+				"wave6": {
+					"Enemy9": {
+						"damage": 30,
+						"health": 7000,
+						"time_attack": "3-7",
+						"coin": 1000,
+						"numbers": 9
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 100
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					}
+				},
+				"wave7": {
+					"Enemy9": {
+						"damage": 30,
+						"health": 7000,
+						"time_attack": "3-7",
+						"coin": 1000,
+						"numbers": 10
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 120
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					}
+				}
+			}
+		},
+		"level28": {
+			"bonus": 200000,
+			"waves": {
+				"wave1": {
+					"Enemy9": {
+						"damage": 40,
+						"health": 10000,
+						"time_attack": "3-7",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					}
+				},
+				"wave2": {
+					"Enemy9": {
+						"damage": 40,
+						"health": 10000,
+						"time_attack": "3-7",
+						"coin": 1000,
+						"numbers": 5
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 30
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					}
+				},
+				"wave3": {
+					"Enemy9": {
+						"damage": 40,
+						"health": 10000,
+						"time_attack": "3-7",
+						"coin": 1000,
+						"numbers": 6
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 40
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					}
+				},
+				"wave4": {
+					"Enemy9": {
+						"damage": 40,
+						"health": 10000,
+						"time_attack": "3-7",
+						"coin": 1000,
+						"numbers": 7
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 50
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					}
+				},
+				"wave5": {
+					"Enemy9": {
+						"damage": 40,
+						"health": 10000,
+						"time_attack": "3-7",
+						"coin": 1000,
+						"numbers": 8
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 70
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					}
+				},
+				"wave6": {
+					"Enemy9": {
+						"damage": 40,
+						"health": 10000,
+						"time_attack": "3-7",
+						"coin": 1000,
+						"numbers": 9
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 100
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					}
+				},
+				"wave7": {
+					"Enemy9": {
+						"damage": 40,
+						"health": 10000,
+						"time_attack": "3-7",
+						"coin": 1000,
+						"numbers": 10
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 120
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					}
+				}
+			}
+		},
+		"level29": {
+			"bonus": 250000,
+			"waves": {
+				"wave1": {
+					"Enemy9": {
+						"damage": 5,
+						"health": 30000,
+						"time_attack": "5-10",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					},
+					"Enemy5": {
+						"damage": 40,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					}
+				},
+				"wave2": {
+					"Enemy9": {
+						"damage": 5,
+						"health": 30000,
+						"time_attack": "5-10",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 30
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					},
+					"Enemy5": {
+						"damage": 40,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					}
+				},
+				"wave3": {
+					"Enemy9": {
+						"damage": 5,
+						"health": 30000,
+						"time_attack": "5-10",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 40
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					},
+					"Enemy5": {
+						"damage": 40,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					}
+				},
+				"wave4": {
+					"Enemy9": {
+						"damage": 5,
+						"health": 30000,
+						"time_attack": "5-10",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 50
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					},
+					"Enemy5": {
+						"damage": 40,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					}
+				},
+				"wave5": {
+					"Enemy9": {
+						"damage": 5,
+						"health": 30000,
+						"time_attack": "5-10",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 70
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					},
+					"Enemy5": {
+						"damage": 40,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					}
+				},
+				"wave6": {
+					"Enemy9": {
+						"damage": 5,
+						"health": 30000,
+						"time_attack": "5-10",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 100
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					},
+					"Enemy5": {
+						"damage": 40,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					}
+				},
+				"wave7": {
+					"Enemy9": {
+						"damage": 5,
+						"health": 30000,
+						"time_attack": "5-10",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 120
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					},
+					"Enemy5": {
+						"damage": 40,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					}
+				}
+			}
+		},
+		"level30": {
+			"bonus": 500000,
+			"waves": {
+				"wave1": {
+					"Enemy9": {
+						"damage": 5,
+						"health": 50000,
+						"time_attack": "10-15",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					},
+					"Enemy5": {
+						"damage": 40,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					},
+					"Enemy6": {
+						"damage": 50,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 500,
+						"numbers": 10
+					}
+				},
+				"wave2": {
+					"Enemy9": {
+						"damage": 5,
+						"health": 50000,
+						"time_attack": "10-15",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 30
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					},
+					"Enemy5": {
+						"damage": 40,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					},
+					"Enemy6": {
+						"damage": 50,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 500,
+						"numbers": 10
+					}
+				},
+				"wave3": {
+					"Enemy9": {
+						"damage": 5,
+						"health": 50000,
+						"time_attack": "10-15",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 40
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					},
+					"Enemy5": {
+						"damage": 40,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					},
+					"Enemy6": {
+						"damage": 50,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 500,
+						"numbers": 10
+					}
+				},
+				"wave4": {
+					"Enemy9": {
+						"damage": 5,
+						"health": 50000,
+						"time_attack": "10-15",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 50
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					},
+					"Enemy5": {
+						"damage": 40,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					},
+					"Enemy6": {
+						"damage": 50,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 500,
+						"numbers": 10
+					}
+				},
+				"wave5": {
+					"Enemy9": {
+						"damage": 5,
+						"health": 50000,
+						"time_attack": "10-15",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 70
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					},
+					"Enemy5": {
+						"damage": 40,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					},
+					"Enemy6": {
+						"damage": 50,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 500,
+						"numbers": 10
+					}
+				},
+				"wave6": {
+					"Enemy9": {
+						"damage": 5,
+						"health": 50000,
+						"time_attack": "10-15",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy1": {
+						"damage": 20,
+						"health": 100,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 100
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					},
+					"Enemy5": {
+						"damage": 40,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					},
+					"Enemy6": {
+						"damage": 50,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 500,
+						"numbers": 10
+					}
+				},
+				"wave7": {
+					"Enemy9": {
+						"damage": 5,
+						"health": 50000,
+						"time_attack": "10-15",
+						"coin": 1000,
+						"numbers": 4
+					},
+					"Enemy1": {
+						"damage": 200,
+						"health": 500,
+						"time_attack": "3-7",
+						"coin": 5000,
+						"numbers": 1000
+					},
+					"Enemy2": {
+						"damage": 25,
+						"health": 120,
+						"time_attack": "3-7",
+						"coin": 100,
+						"numbers": 20
+					},
+					"Enemy3": {
+						"damage": 30,
+						"health": 150,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 20
+					},
+					"Enemy4": {
+						"damage": 35,
+						"health": 170,
+						"time_attack": "3-7",
+						"coin": 150,
+						"numbers": 10
+					},
+					"Enemy5": {
+						"damage": 40,
+						"health": 200,
+						"time_attack": "3-7",
+						"coin": 200,
+						"numbers": 10
+					},
+					"Enemy6": {
+						"damage": 50,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 500,
+						"numbers": 10
+					},
+					"Enemy7": {
+						"damage": 50,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 500,
+						"numbers": 10
+					},
+					"Enemy8": {
+						"damage": 50,
+						"health": 300,
+						"time_attack": "3-7",
+						"coin": 500,
+						"numbers": 20
+					}
+				}
+			}
+		}
+	}
+}

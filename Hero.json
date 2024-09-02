@@ -1,0 +1,99 @@
+{
+	"data" : {
+		"hero1" : {
+			"list" : {
+				"set1" : {
+					"health" : 100,
+					"damage_water" : 10,
+					"damage_bomb" : 20,
+					"damage_fire" : 15,
+					"damage_earth" : 10,
+					"health_recovery" : 5,
+					"price_upgrade" : 100 
+				},
+				"set2" : {
+					 "health" : 200,
+					"damage_water" : 20,
+					"damage_bomb" : 30,
+					"damage_fire" : 25,
+					"damage_earth" : 20,
+					"health_recovery" : 20,
+					"price_upgrade" : 200 
+
+				},
+				"set3" : {
+					 "health" : 300,
+					"damage_water" : 30,
+					"damage_bomb" : 35,
+					"damage_fire" : 30,
+					"damage_earth" : 25,
+					"health_recovery" : 25,
+					"price_upgrade" : 500 
+				},
+				"set4" : {
+					 "health" : 350,
+					"damage_water" : 40,
+					"damage_bomb" : 40,
+					"damage_fire" : 40,
+					"damage_earth" : 40,
+					"health_recovery" : 30,
+					"price_upgrade" : 2000 
+				},
+				"set5" : {
+					 "health" : 450,
+					"damage_water" : 50,
+					"damage_bomb" : 50,
+					"damage_fire" : 55,
+					"damage_earth" : 45,
+					"health_recovery" : 40,
+					"price_upgrade" : 5000 
+				},
+				"set6" : {
+					 "health" : 550,
+					"damage_water" : 70,
+					"damage_bomb" : 60,
+					"damage_fire" : 65,
+					"damage_earth" : 55,
+					"health_recovery" : 80,
+					"price_upgrade" : 10000 
+				},
+				"set7" : {
+					 "health" : 650,
+					"damage_water" : 80,
+					"damage_bomb" : 100,
+					"damage_fire" : 80,
+					"damage_earth" : 70,
+					"health_recovery" : 100,
+					"price_upgrade" : 50000 
+				},
+				"set8" : {
+					 "health" : 700,
+					"damage_water" : 70,
+					"damage_bomb" : 150,
+					"damage_fire" : 70,
+					"damage_earth" : 55,
+					"health_recovery" : 120,
+					"price_upgrade" : 100000 
+				},
+				"set9" : {
+					 "health" : 800,
+					"damage_water" : 100,
+					"damage_bomb" : 200,
+					"damage_fire" : 100,
+					"damage_earth" : 70,
+					"health_recovery" : 140,
+					"price_upgrade" : 500000 
+				},
+				"set10" : {
+					 "health" : 1000,
+					"damage_water" : 150,
+					"damage_bomb" : 300,
+					"damage_fire" : 100,
+					"damage_earth" : 100,
+					"health_recovery" : 200,
+					"price_upgrade" : 1000000
+				}
+			}
+		}
+	}
+}
